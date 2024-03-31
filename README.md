@@ -1,16 +1,7 @@
 # text_recognition_app
 
-A new Flutter project.
+A Flutter app to recognize handwritten text from images.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](assets/photo_2024-03-31_23-11-29.jpg)
+![image](assets/photo_2024-03-31_23-11-30%20(2).jpg)
+![image](assets/photo_2024-03-31_23-11-30.jpg)
