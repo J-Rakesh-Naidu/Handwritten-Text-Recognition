@@ -1,4 +1,4 @@
-# text_recognition_app
+# Texribe
 
 A Flutter app to recognize handwritten text from images.
 
